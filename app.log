@@ -1,0 +1,6 @@
+[06-24 14:19:39] [p3744] [<module>] [logging_example.py:40] [WARNING] - This is a warning
+[06-24 14:19:39] [p3744] [<module>] [logging_example.py:41] [ERROR] - This is an error
+[06-24 14:19:39] [p3744] [<module>] [logging_example.py:42] [INFO] - This is an info
+[06-24 14:19:39] [p3744] [test] [logging_example.py:45] [INFO] - This is an info test
+[06-24 14:19:39] [p3744] [test] [logging_example.py:57] [ERROR] - Traceback (most recent call last):!!  File "logging_example.py", line 49, in test!!    c = a / b!!ZeroDivisionError: division by zero!!
+[06-24 14:19:39] [p3744] [test] [logging_example.py:58] [ERROR] - ----------------
